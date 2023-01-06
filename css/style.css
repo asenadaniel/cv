@@ -1,0 +1,25 @@
+body {
+  background-color: #CBEDD5;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-color: grey;
+  border-width: 5px;
+}
+
+h1, h2, h3 {
+  color: #66bfbf;
+  text-decoration: none;
+  
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: green;
+}
